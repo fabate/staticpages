@@ -1,0 +1,2 @@
+# staticpages
+uploading static pages
